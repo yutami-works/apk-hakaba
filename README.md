@@ -1,10 +1,10 @@
 # Android48
 
-救済プロジェクト<br>
-萌えドロイド、Android46とも。
+Android46とも。<br>
+過去配信されていたアプリを収集してまとめる。
 
-http://moe.webclap.com/
+- http://moe.webclap.com/
 
-https://ja-jp.facebook.com/android48official/
+- https://ja-jp.facebook.com/android48official/
 
-https://twitter.com/magicgirlsakura
+- https://twitter.com/magicgirlsakura
